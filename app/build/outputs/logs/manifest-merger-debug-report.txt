@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\aedbb006507bab785c65c561950eddd2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d31138bb0f3cf6fe25004925c3e01e04\AndroidManifest.xml:17:1-31:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\2ea0ca9974531b06f6e5f9925a7b10f1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\44889e20c983a157aaaaa30d9179c3ee\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3dd05427fc13074b563c8bcc02ca4056\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\13ee1e7e8ec6796bac91527654c439cc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\95457a59d5bb61efad19b33d29fd1b50\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\775c3f61ac8717f84036a5b9a5f15551\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\97c59e223e259da3ec000318b717df44\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ce3fadae835b33d3ceeee7e33a0f747a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\600f9b39ed21b7dcc706a46afba404a5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\226929e777df8d7a4699ba6c4d7b5b0c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\7873532fad373935a4bbfa0202e62a5e\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\aedbb006507bab785c65c561950eddd2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\aedbb006507bab785c65c561950eddd2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d31138bb0f3cf6fe25004925c3e01e04\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d31138bb0f3cf6fe25004925c3e01e04\AndroidManifest.xml:25:5-29:19
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\2ea0ca9974531b06f6e5f9925a7b10f1\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\2ea0ca9974531b06f6e5f9925a7b10f1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\44889e20c983a157aaaaa30d9179c3ee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\44889e20c983a157aaaaa30d9179c3ee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3dd05427fc13074b563c8bcc02ca4056\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3dd05427fc13074b563c8bcc02ca4056\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\13ee1e7e8ec6796bac91527654c439cc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\13ee1e7e8ec6796bac91527654c439cc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\95457a59d5bb61efad19b33d29fd1b50\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\95457a59d5bb61efad19b33d29fd1b50\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\775c3f61ac8717f84036a5b9a5f15551\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\775c3f61ac8717f84036a5b9a5f15551\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\97c59e223e259da3ec000318b717df44\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\97c59e223e259da3ec000318b717df44\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ce3fadae835b33d3ceeee7e33a0f747a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ce3fadae835b33d3ceeee7e33a0f747a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\600f9b39ed21b7dcc706a46afba404a5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\600f9b39ed21b7dcc706a46afba404a5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\226929e777df8d7a4699ba6c4d7b5b0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\226929e777df8d7a4699ba6c4d7b5b0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\7873532fad373935a4bbfa0202e62a5e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\7873532fad373935a4bbfa0202e62a5e\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.kenjin.hotelapp.activity.MainActivity
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:11:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.kenjin.hotelapp.activity.PreviewActivity
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:18:9-62
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:18:19-59
+activity#com.kenjin.hotelapp.activity.BookActivity
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:19:19-56
+activity#com.kenjin.hotelapp.activity.HistoryActivity
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:20:19-59
+activity#com.kenjin.hotelapp.activity.SurveyActivity
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:21:19-58
+activity#com.kenjin.hotelapp.activity.ResultSurveyActivity
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:22:9-76
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:22:19-64
+activity#com.kenjin.hotelapp.activity.DetailHistoryActivity
+ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml:23:19-65
+uses-sdk
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\aedbb006507bab785c65c561950eddd2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\aedbb006507bab785c65c561950eddd2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d31138bb0f3cf6fe25004925c3e01e04\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d31138bb0f3cf6fe25004925c3e01e04\AndroidManifest.xml:21:5-23:78
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\2ea0ca9974531b06f6e5f9925a7b10f1\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\2ea0ca9974531b06f6e5f9925a7b10f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\44889e20c983a157aaaaa30d9179c3ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\44889e20c983a157aaaaa30d9179c3ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3dd05427fc13074b563c8bcc02ca4056\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3dd05427fc13074b563c8bcc02ca4056\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\13ee1e7e8ec6796bac91527654c439cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\13ee1e7e8ec6796bac91527654c439cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\95457a59d5bb61efad19b33d29fd1b50\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\95457a59d5bb61efad19b33d29fd1b50\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\775c3f61ac8717f84036a5b9a5f15551\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\775c3f61ac8717f84036a5b9a5f15551\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\97c59e223e259da3ec000318b717df44\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\97c59e223e259da3ec000318b717df44\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ce3fadae835b33d3ceeee7e33a0f747a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ce3fadae835b33d3ceeee7e33a0f747a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\600f9b39ed21b7dcc706a46afba404a5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\600f9b39ed21b7dcc706a46afba404a5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\226929e777df8d7a4699ba6c4d7b5b0c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\226929e777df8d7a4699ba6c4d7b5b0c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\7873532fad373935a4bbfa0202e62a5e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\7873532fad373935a4bbfa0202e62a5e\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\HotelApps\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d31138bb0f3cf6fe25004925c3e01e04\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d31138bb0f3cf6fe25004925c3e01e04\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\44889e20c983a157aaaaa30d9179c3ee\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\44889e20c983a157aaaaa30d9179c3ee\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3dd05427fc13074b563c8bcc02ca4056\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3dd05427fc13074b563c8bcc02ca4056\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\13ee1e7e8ec6796bac91527654c439cc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\13ee1e7e8ec6796bac91527654c439cc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\95457a59d5bb61efad19b33d29fd1b50\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\95457a59d5bb61efad19b33d29fd1b50\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\775c3f61ac8717f84036a5b9a5f15551\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\775c3f61ac8717f84036a5b9a5f15551\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\97c59e223e259da3ec000318b717df44\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\97c59e223e259da3ec000318b717df44\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ce3fadae835b33d3ceeee7e33a0f747a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ce3fadae835b33d3ceeee7e33a0f747a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\600f9b39ed21b7dcc706a46afba404a5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\600f9b39ed21b7dcc706a46afba404a5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\226929e777df8d7a4699ba6c4d7b5b0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\226929e777df8d7a4699ba6c4d7b5b0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\7873532fad373935a4bbfa0202e62a5e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\7873532fad373935a4bbfa0202e62a5e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] C:\Users\Firman\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\e6caf0b4722c88c8d4bea4780214e19c\AndroidManifest.xml:27:13-51
